@@ -1,0 +1,1096 @@
+
+
+[
+  {
+    "id": "1",
+    "university_name": "হার্ভার্ড ইউনিভার্সিটি",
+    "location": "কেমব্রিজ, ম্যাসাচুসেটস",
+    "degree": "মাস্টার্স",
+    "qs_rank": 4,
+    "admission_fee": "$75",
+    "ielts_score": 7.5,
+    "logo": "https://i.ibb.co.com/GQrSJxXw/images-3.png",
+    "important_info": "1636 সালে প্রতিষ্ঠিত, হার্ভার্ড হল মার্কিন যুক্তরাষ্ট্রের উচ্চ শিক্ষার সবচেয়ে পুরানো প্রতিষ্ঠান এবং এটি ধারাবাহিকভাবে বিশ্বের সবচেয়ে মর্যাদাপূর্ণ বিশ্ববিদ্যালয়গুলির মধ্যে স্থান পায়।",
+    "established_year": 1636,
+    "total_students": 36000,
+    "total_international_students": 7000,
+    "best_courses": [
+      "আইন",
+      "ব্যবসায় প্রশাসন",
+      "চিকিৎসা",
+      "জন নীতি",
+      "ইঞ্জিনিয়ারিং"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 15",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 15",
+      "অক্টোবর 1",
+      "নভেম্বর 1",
+      "ডিসেম্বর 1"
+    ],
+    "eligibility": "শক্তিশালী একাডেমিক রেকর্ড সহ ব্যাচেলর ডিগ্রি, প্রতিযোগিতামূলক জিআরই/জিএমএটি স্কোর এবং একটি আকর্ষণীয় স্টেটমেন্ট অফ পারপাস।",
+    "ranking": {
+      "qs_ranking": 4,
+      "the_ranking": 2,
+      "us_news_ranking": 3,
+      "arwu_ranking": 1,
+      "forbes_ranking": 5,
+      "cwt_ranking": 3
+    }
+  },
+  {
+    "id": "2",
+    "university_name": "স্ট্যানফোর্ড ইউনিভার্সিটি",
+    "location": "স্ট্যানফোর্ড, ক্যালিফোর্নিয়া",
+    "degree": "পিএইচডি",
+    "qs_rank": 5,
+    "admission_fee": "$90",
+    "ielts_score": 7.0,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b7/Stanford_University_seal_2003.svg",
+    "important_info": "স্ট্যানফোর্ড তার একাডেমিক শক্তি, আর্থিক স্বচ্ছলতা এবং সিলিকন ভ্যালির কাছাকাছি অবস্থানের জন্য সুপরিচিত। এটি উদ্ভাবন এবং উদ্যোক্তার একটি কেন্দ্র হিসাবে কাজ করে।",
+    "established_year": 1885,
+    "total_students": 17000,
+    "total_international_students": 3800,
+    "best_courses": [
+      "কম্পিউটার বিজ্ঞান",
+      "ইঞ্জিনিয়ারিং",
+      "ব্যবসা",
+      "আইন",
+      "চিকিৎসা"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "ডিসেম্বর 1",
+      "ডিসেম্বর 15",
+      "জানুয়ারী 10",
+      "জানুয়ারী 15",
+      "মার্চ 1",
+      "এপ্রিল 1"
+    ],
+    "eligibility": "প্রতিযোগিতামূলক জিপিএ, উচ্চ জিআরই/জিএমএটি স্কোর, চমৎকার লেটার অফ রেকমেন্ডেশন, এবং একটি ভালোভাবে লেখা স্টেটমেন্ট অফ পারপাস।",
+    "ranking": {
+      "qs_ranking": 5,
+      "the_ranking": 3,
+      "us_news_ranking": 6,
+      "arwu_ranking": 2,
+      "forbes_ranking": 4,
+      "cwt_ranking": 5
+    }
+  },
+  {
+    "id": "3",
+    "university_name": "ম্যাসাচুসেটস ইনস্টিটিউট অফ টেকনোলজি (এমআইটি)",
+    "location": "কেমব্রিজ, ম্যাসাচুসেটস",
+    "degree": "পিজি ডিপ্লোমা",
+    "qs_rank": 1,
+    "admission_fee": "$75",
+    "ielts_score": 7.5,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg",
+    "important_info": "এমআইটি বিজ্ঞান, প্রযুক্তি এবং ইঞ্জিনিয়ারিং-এ বিশ্বজুড়ে একটি নেতৃস্থানীয় প্রতিষ্ঠান, যা তার অত্যাধুনিক গবেষণা এবং উদ্ভাবনের জন্য পরিচিত।",
+    "established_year": 1861,
+    "total_students": 11900,
+    "total_international_students": 3500,
+    "best_courses": [
+      "ইঞ্জিনিয়ারিং",
+      "কম্পিউটার বিজ্ঞান",
+      "পদার্থবিদ্যা",
+      "গণিত",
+      "আর্কিটেকচার"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "ডিসেম্বর 15",
+      "জানুয়ারী 1",
+      "জানুয়ারী 15",
+      "মার্চ 1",
+      "মে 1",
+      "অক্টোবর 15"
+    ],
+    "eligibility": "বিজ্ঞান/ইঞ্জিনিয়ারিং-এ ব্যতিক্রমী একাডেমিক রেকর্ড, উচ্চ জিআরই স্কোর, এবং উল্লেখযোগ্য গবেষণা অভিজ্ঞতা।",
+    "ranking": {
+      "qs_ranking": 1,
+      "the_ranking": 1,
+      "us_news_ranking": 2,
+      "arwu_ranking": 4,
+      "forbes_ranking": 2,
+      "cwt_ranking": 1
+    }
+  },
+  {
+    "id": "4",
+    "university_name": "ক্যালিফোর্নিয়া ইনস্টিটিউট অফ টেকনোলজি (ক্যালটেক)",
+    "location": "পাসাডেনা, ক্যালিফোর্নিয়া",
+    "degree": "ইউজি ডিপ্লোমা",
+    "qs_rank": 15,
+    "admission_fee": "$100",
+    "ielts_score": 7.0,
+    "logo": "https://i.ibb.co.com/603cC43R/East-Stroudsburg-University-seal.png",
+    "important_info": "ক্যালটেক একটি বেসরকারি গবেষণা বিশ্ববিদ্যালয় যা বিজ্ঞান এবং ইঞ্জিনিয়ারিং-এর উপর বিশেষভাবে মনোযোগ দেয়। এটি তার কঠোর একাডেমিক পরিবেশ এবং উচ্চ গবেষণা সাফল্যের জন্য পরিচিত।",
+    "established_year": 1891,
+    "total_students": 2400,
+    "total_international_students": 800,
+    "best_courses": [
+      "অ্যারোস্পেস ইঞ্জিনিয়ারিং",
+      "পদার্থবিদ্যা",
+      "রসায়ন",
+      "জীববিজ্ঞান",
+      "কম্পিউটার বিজ্ঞান"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "ডিসেম্বর 1",
+      "ডিসেম্বর 15",
+      "জানুয়ারী 15",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 1",
+      "নভেম্বর 15"
+    ],
+    "eligibility": "ব্যতিক্রমী জিপিএ, উচ্চ জিআরই স্কোর, শক্তিশালী গবেষণা ব্যাকগ্রাউন্ড এবং বিস্তারিত লেটার অফ রেকমেন্ডেশন।",
+    "ranking": {
+      "qs_ranking": 15,
+      "the_ranking": 6,
+      "us_news_ranking": 9,
+      "arwu_ranking": 8,
+      "forbes_ranking": 10,
+      "cwt_ranking": 7
+    }
+  },
+  {
+    "id": "5",
+    "university_name": "ইউনিভার্সিটি অফ শিকাগো",
+    "location": "শিকাগো, ইলিনয়",
+    "degree": "ইউজি ডিপ্লোমা",
+    "qs_rank": 11,
+    "admission_fee": "$75",
+    "ielts_score": 7.0,
+    "logo": "https://i.ibb.co.com/qFLV5g1H/Princeton-seal-svg.png",
+    "important_info": "ইউনিভার্সিটি অফ শিকাগো একটি বেসরকারি গবেষণা বিশ্ববিদ্যালয় যা তার বুদ্ধিবৃত্তিক এবং একাডেমিক ঐতিহ্য এবং অনেক ক্ষেত্রে তার প্রভাবের জন্য পরিচিত।",
+    "established_year": 1890,
+    "total_students": 18000,
+    "total_international_students": 4000,
+    "best_courses": [
+      "অর্থনীতি",
+      "আইন",
+      "ব্যবসা",
+      "জন নীতি",
+      "সামাজিক বিজ্ঞান"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "ডিসেম্বর 15",
+      "জানুয়ারী 15",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 1",
+      "এপ্রিল 1",
+      "নভেম্বর 1"
+    ],
+    "eligibility": "প্রতিযোগিতামূলক জিপিএ, উচ্চ জিআরই/জিএমএটি স্কোর, একটি বিস্তারিত একাডেমিক সিভি, এবং একটি আকর্ষণীয় ব্যক্তিগত বিবৃতি।",
+    "ranking": {
+      "qs_ranking": 11,
+      "the_ranking": 10,
+      "us_news_ranking": 12,
+      "arwu_ranking": 15,
+      "forbes_ranking": 11,
+      "cwt_ranking": 12
+    }
+  },
+  {
+    "id": "6",
+    "university_name": "ইউনিভার্সিটি 6",
+    "location": "সিটি 6, স্টেট 6",
+    "degree": "ইউজি ডিপ্লোমা",
+    "qs_rank": 26,
+    "admission_fee": "$50",
+    "ielts_score": 6.5,
+    "logo": "https://i.ibb.co.com/99dsYcTx/UPenn-shield-with-banner-svg.png",
+    "important_info": "এটি একটি শীর্ষস্থানীয় পাবলিক গবেষণা প্রতিষ্ঠান যেখানে ব্যবহারিক, পেশা-কেন্দ্রিক শিক্ষা এবং বৈচিত্র্যময় শিক্ষার্থীদের উপর জোর দেওয়া হয়।",
+    "established_year": 1878,
+    "total_students": 35000,
+    "total_international_students": 6000,
+    "best_courses": [
+      "ব্যবসা",
+      "ইঞ্জিনিয়ারিং",
+      "কম্পিউটার বিজ্ঞান",
+      "স্বাস্থ্য বিজ্ঞান",
+      "কলা"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 20",
+      "ফেব্রুয়ারী 20",
+      "এপ্রিল 1",
+      "সেপ্টেম্বর 1",
+      "অক্টোবর 15",
+      "ডিসেম্বর 1"
+    ],
+    "eligibility": "ন্যূনতম 3.0 জিপিএ সহ ব্যাচেলর ডিগ্রি, প্রতিযোগিতামূলক জিআরই স্কোর এবং দুটি লেটার অফ রেকমেন্ডেশন।",
+    "ranking": {
+      "qs_ranking": 26,
+      "the_ranking": 28,
+      "us_news_ranking": 25,
+      "arwu_ranking": 30,
+      "forbes_ranking": 29,
+      "cwt_ranking": 27
+    }
+  },
+  {
+    "id": "7",
+    "university_name": "ইউনিভার্সিটি 7",
+    "location": "সিটি 7, স্টেট 7",
+    "degree": "ইউজি ডিপ্লোমা",
+    "qs_rank": 27,
+    "admission_fee": "$60",
+    "ielts_score": 7.0,
+    "logo": "https://i.ibb.co.com/mVH7DxQQ/download-3.png",
+    "important_info": "এর সুন্দর ক্যাম্পাস এবং প্রাণবন্ত ছাত্র জীবনের জন্য পরিচিত, এই বিশ্ববিদ্যালয়টি একাডেমিক এবং অতিরিক্ত পাঠ্যক্রম উভয় ক্ষেত্রেই সেরা।",
+    "established_year": 1865,
+    "total_students": 28000,
+    "total_international_students": 5000,
+    "best_courses": [
+      "সামাজিক বিজ্ঞান",
+      "মানবিক",
+      "শিক্ষা",
+      "পরিবেশ বিজ্ঞান",
+      "আর্কিটেকচার"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 1",
+      "ফেব্রুয়ারী 15",
+      "মার্চ 30",
+      "অক্টোবর 15",
+      "নভেম্বর 15",
+      "ডিসেম্বর 15"
+    ],
+    "eligibility": "ব্যাচেলর ডিগ্রি, শক্তিশালী ব্যক্তিগত বিবৃতি এবং গবেষণা বা পেশাদার অভিজ্ঞতার প্রমাণ।",
+    "ranking": {
+      "qs_ranking": 27,
+      "the_ranking": 25,
+      "us_news_ranking": 28,
+      "arwu_ranking": 26,
+      "forbes_ranking": 27,
+      "cwt_ranking": 29
+    }
+  },
+  {
+    "id": "8",
+    "university_name": "ইউনিভার্সিটি 8",
+    "location": "সিটি 8, স্টেট 8",
+    "degree": "পিজি ডিপ্লোমা",
+    "qs_rank": 28,
+    "admission_fee": "$70",
+    "ielts_score": 7.5,
+    "logo": "https://i.ibb.co.com/bjcqwZS7/images-11.jpg",
+    "important_info": "চিকিৎসা ও স্বাস্থ্য বিজ্ঞানের একটি বিশ্বব্যাপী নেতা, এটি অত্যাধুনিক সুবিধা এবং বিশ্বমানের অনুষদ সরবরাহ করে।",
+    "established_year": 1901,
+    "total_students": 15000,
+    "total_international_students": 3000,
+    "best_courses": [
+      "চিকিৎসা",
+      "জনস্বাস্থ্য",
+      "নার্সিং",
+      "বায়োমেডিক্যাল ইঞ্জিনিয়ারিং",
+      "ফার্মেসি"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 10",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 1",
+      "সেপ্টেম্বর 15",
+      "নভেম্বর 1",
+      "ডিসেম্বর 10"
+    ],
+    "eligibility": "সম্পর্কিত বিষয়ে ব্যাচেলর ডিগ্রি, চমৎকার জিপিএ, এমসিএটি/জিআরই স্কোর এবং শক্তিশালী লেটার অফ রেকমেন্ডেশন।",
+    "ranking": {
+      "qs_ranking": 28,
+      "the_ranking": 29,
+      "us_news_ranking": 30,
+      "arwu_ranking": 28,
+      "forbes_ranking": 26,
+      "cwt_ranking": 25
+    }
+  },
+  {
+    "id": "9",
+    "university_name": "ইউনিভার্সিটি 9",
+    "location": "সিটি 9, স্টেট 9",
+    "degree": "ইউজি+পিজি ডিপ্লোমা",
+    "qs_rank": 29,
+    "admission_fee": "$80",
+    "ielts_score": 6.5,
+    "logo": "https://i.ibb.co.com/tTqsgvgG/download-2.png",
+    "important_info": "এটি শিক্ষায় এর আন্তঃবিষয়ক দৃষ্টিভঙ্গি এবং সহযোগী গবেষণা পরিবেশের জন্য পরিচিত।",
+    "established_year": 1920,
+    "total_students": 22000,
+    "total_international_students": 4500,
+    "best_courses": [
+      "পদার্থবিদ্যা",
+      "রসায়ন",
+      "গণিত",
+      "ডেটা সায়েন্স",
+      "ম্যাটেরিয়াল সায়েন্স"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 15",
+      "মার্চ 1",
+      "মে 1",
+      "অক্টোবর 1",
+      "নভেম্বর 15",
+      "ডিসেম্বর 15"
+    ],
+    "eligibility": "সম্পর্কিত বিষয়ে ব্যাচেলর ডিগ্রি, প্রতিযোগিতামূলক জিআরই স্কোর এবং গবেষণা আগ্রহের রূপরেখা দেওয়া একটি ব্যক্তিগত বিবৃতি।",
+    "ranking": {
+      "qs_ranking": 29,
+      "the_ranking": 27,
+      "us_news_ranking": 26,
+      "arwu_ranking": 29,
+      "forbes_ranking": 28,
+      "cwt_ranking": 30
+    }
+  },
+  {
+    "id": "10",
+    "university_name": "ইউনিভার্সিটি 10",
+    "location": "সিটি 10, স্টেট 10",
+    "degree": "ইউজি+পিজি ডিপ্লোমা",
+    "qs_rank": 30,
+    "admission_fee": "$90",
+    "ielts_score": 7.0,
+    "logo": "https://example.com/logo_univ_10.png",
+    "important_info": "কলা ও মানবিকের একটি শীর্ষস্থানীয় প্রতিষ্ঠান, যা সৃজনশীলতা এবং সমালোচনামূলক চিন্তাভাবনাকে উৎসাহিত করে।",
+    "established_year": 1850,
+    "total_students": 18000,
+    "total_international_students": 3200,
+    "best_courses": [
+      "চারুকলা",
+      "সাহিত্য",
+      "ইতিহাস",
+      "দর্শন",
+      "নাটক"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 15",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 15",
+      "অক্টোবর 15",
+      "নভেম্বর 1",
+      "ডিসেম্বর 15"
+    ],
+    "eligibility": "সম্পর্কিত বিষয়ে ব্যাচেলর ডিগ্রি, কাজের পোর্টফোলিও (কলা প্রোগ্রামের জন্য) এবং একটি শক্তিশালী ব্যক্তিগত রচনা।",
+    "ranking": {
+      "qs_ranking": 30,
+      "the_ranking": 31,
+      "us_news_ranking": 32,
+      "arwu_ranking": 35,
+      "forbes_ranking": 30,
+      "cwt_ranking": 33
+    }
+  },
+  {
+    "id": "11",
+    "university_name": "ইউনিভার্সিটি 11",
+    "location": "সিটি 11, স্টেট 11",
+    "degree": "ইউজি+পিজি ডিপ্লোমা",
+    "qs_rank": 31,
+    "admission_fee": "$100",
+    "ielts_score": 7.5,
+    "logo": "https://example.com/logo_univ_11.png",
+    "important_info": "একটি উচ্চ-র্যাঙ্কড বিশ্ববিদ্যালয়, যা প্রযুক্তি এবং উদ্ভাবনে অত্যাধুনিক গবেষণার উপর মনোযোগ দেয়।",
+    "established_year": 1930,
+    "total_students": 25000,
+    "total_international_students": 5000,
+    "best_courses": [
+      "রোবোটিক্স",
+      "আর্টিফিশিয়াল ইন্টেলিজেন্স",
+      "বায়োইনফরমেটিক্স",
+      "সাইবারসিকিউরিটি",
+      "রিনিউয়েবল এনার্জি"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "ডিসেম্বর 15",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 15",
+      "অক্টোবর 1",
+      "নভেম্বর 1",
+      "ডিসেম্বর 1"
+    ],
+    "eligibility": "সম্পর্কিত ক্ষেত্রে ব্যাচেলর ডিগ্রি, শক্তিশালী প্রযুক্তিগত ব্যাকগ্রাউন্ড এবং একটি প্রতিযোগিতামূলক জিআরই স্কোর।",
+    "ranking": {
+      "qs_ranking": 31,
+      "the_ranking": 30,
+      "us_news_ranking": 29,
+      "arwu_ranking": 32,
+      "forbes_ranking": 31,
+      "cwt_ranking": 35
+    }
+  },
+  {
+    "id": "12",
+    "university_name": "ইউনিভার্সিটি 12",
+    "location": "সিটি 12, স্টেট 12",
+    "degree": "মাস্টার্স",
+    "qs_rank": 32,
+    "admission_fee": "$50",
+    "ielts_score": 6.5,
+    "logo": "https://example.com/logo_univ_12.png",
+    "important_info": "একটি বৃহৎ পাবলিক বিশ্ববিদ্যালয় যেখানে বিভিন্ন ধরনের প্রোগ্রাম এবং কমিউনিটি এনগেজমেন্টের উপর মনোযোগ দেওয়া হয়।",
+    "established_year": 1888,
+    "total_students": 40000,
+    "total_international_students": 7000,
+    "best_courses": [
+      "মনোবিজ্ঞান",
+      "সমাজবিজ্ঞান",
+      "রাষ্ট্রবিজ্ঞান",
+      "যোগাযোগ",
+      "জনপ্রশাসন"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 15",
+      "মার্চ 1",
+      "মে 1",
+      "আগস্ট 1",
+      "অক্টোবর 1",
+      "নভেম্বর 15"
+    ],
+    "eligibility": "স্বীকৃত প্রতিষ্ঠান থেকে ব্যাচেলর ডিগ্রি এবং ন্যূনতম 2.8 জিপিএ।",
+    "ranking": {
+      "qs_ranking": 32,
+      "the_ranking": 35,
+      "us_news_ranking": 31,
+      "arwu_ranking": 34,
+      "forbes_ranking": 33,
+      "cwt_ranking": 31
+    }
+  },
+  {
+    "id": "13",
+    "university_name": "ইউনিভার্সিটি 13",
+    "location": "সিটি 13, স্টেট 13",
+    "degree": "মাস্টার্স",
+    "qs_rank": 33,
+    "admission_fee": "$60",
+    "ielts_score": 7.0,
+    "logo": "https://example.com/logo_univ_13.png",
+    "important_info": "ব্যবসা এবং অর্থনীতির জন্য একটি সুপরিচিত প্রতিষ্ঠান, যার আর্থিক শিল্পের সাথে শক্তিশালী সম্পর্ক রয়েছে।",
+    "established_year": 1905,
+    "total_students": 19000,
+    "total_international_students": 4000,
+    "best_courses": [
+      "ফিনান্স",
+      "অর্থনীতি",
+      "মার্কেটিং",
+      "অ্যাকাউন্টিং",
+      "সাপ্লাই চেইন ম্যানেজমেন্ট"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "ডিসেম্বর 15",
+      "জানুয়ারী 15",
+      "ফেব্রুয়ারী 15",
+      "অক্টোবর 15",
+      "নভেম্বর 15",
+      "ডিসেম্বর 15"
+    ],
+    "eligibility": "ব্যবসায়-সম্পর্কিত ক্ষেত্রে ব্যাচেলর ডিগ্রি, প্রতিযোগিতামূলক জিএমএটি/জিআরই স্কোর এবং পেশাদার অভিজ্ঞতা।",
+    "ranking": {
+      "qs_ranking": 33,
+      "the_ranking": 32,
+      "us_news_ranking": 35,
+      "arwu_ranking": 33,
+      "forbes_ranking": 34,
+      "cwt_ranking": 32
+    }
+  },
+  {
+    "id": "14",
+    "university_name": "ইউনিভার্সিটি 14",
+    "location": "সিটি 14, স্টেট 14",
+    "degree": "মাস্টার্স",
+    "qs_rank": 34,
+    "admission_fee": "$70",
+    "ielts_score": 7.5,
+    "logo": "https://example.com/logo_univ_14.png",
+    "important_info": "স্থায়িত্ব এবং পরিবেশ বিজ্ঞানের উদ্ভাবনী প্রোগ্রামগুলির জন্য পরিচিত।",
+    "established_year": 1950,
+    "total_students": 20000,
+    "total_international_students": 4500,
+    "best_courses": [
+      "পরিবেশ বিজ্ঞান",
+      "স্থায়িত্বশীল উন্নয়ন",
+      "শহুরে পরিকল্পনা",
+      "রিনিউয়েবল এনার্জি",
+      "সংরক্ষণ"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 1",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 1",
+      "অক্টোবর 1",
+      "নভেম্বর 1",
+      "ডিসেম্বর 1"
+    ],
+    "eligibility": "ব্যাচেলর ডিগ্রি, স্থায়িত্বের প্রতি গভীর আগ্রহ এবং ন্যূনতম 3.2 জিপিএ।",
+    "ranking": {
+      "qs_ranking": 34,
+      "the_ranking": 37,
+      "us_news_ranking": 34,
+      "arwu_ranking": 36,
+      "forbes_ranking": 35,
+      "cwt_ranking": 36
+    }
+  },
+  {
+    "id": "15",
+    "university_name": "ইউনিভার্সিটি 15",
+    "location": "সিটি 15, স্টেট 15",
+    "degree": "মাস্টার্স",
+    "qs_rank": 35,
+    "admission_fee": "$80",
+    "ielts_score": 6.5,
+    "logo": "https://example.com/logo_univ_15.png",
+    "important_info": "একটি বেসরকারি বিশ্ববিদ্যালয় যা উদার শিল্পকলার উপর মনোযোগ দেয় এবং বিজ্ঞানে গবেষণার উপর বিশেষ জোর দেয়।",
+    "established_year": 1892,
+    "total_students": 16000,
+    "total_international_students": 3000,
+    "best_courses": [
+      "জীববিজ্ঞান",
+      "রসায়ন",
+      "পদার্থবিদ্যা",
+      "সাহিত্য",
+      "দর্শন"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 15",
+      "মার্চ 15",
+      "মে 1",
+      "সেপ্টেম্বর 1",
+      "অক্টোবর 15",
+      "ডিসেম্বর 1"
+    ],
+    "eligibility": "ব্যাচেলর ডিগ্রি, দুটি লেটার অফ রেকমেন্ডেশন এবং একটি ব্যক্তিগত রচনা।",
+    "ranking": {
+      "qs_ranking": 35,
+      "the_ranking": 33,
+      "us_news_ranking": 37,
+      "arwu_ranking": 38,
+      "forbes_ranking": 36,
+      "cwt_ranking": 34
+    }
+  },
+  {
+    "id": "16",
+    "university_name": "ইউনিভার্সিটি 16",
+    "location": "সিটি 16, স্টেট 16",
+    "degree": "মাস্টার্স",
+    "qs_rank": 36,
+    "admission_fee": "$90",
+    "ielts_score": 7.0,
+    "logo": "https://example.com/logo_univ_16.png",
+    "important_info": "একটি প্রযুক্তিগতভাবে উন্নত বিশ্ববিদ্যালয় যা ফলিত বিজ্ঞান এবং ইঞ্জিনিয়ারিং-এর উপর বিশেষ মনোযোগ দেয়।",
+    "established_year": 1945,
+    "total_students": 28000,
+    "total_international_students": 6000,
+    "best_courses": [
+      "ইলেকট্রিক্যাল ইঞ্জিনিয়ারিং",
+      "মেকানিক্যাল ইঞ্জিনিয়ারিং",
+      "সফটওয়্যার ইঞ্জিনিয়ারিং",
+      "ডেটা সায়েন্স",
+      "অ্যারোস্পেস ইঞ্জিনিয়ারিং"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "ডিসেম্বর 1",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 1",
+      "আগস্ট 15",
+      "অক্টোবর 1",
+      "নভেম্বর 15"
+    ],
+    "eligibility": "সম্পর্কিত ইঞ্জিনিয়ারিং ডিসিপ্লিনে ব্যাচেলর ডিগ্রি, জিআরই স্কোর এবং একটি শক্তিশালী একাডেমিক ব্যাকগ্রাউন্ড।",
+    "ranking": {
+      "qs_ranking": 36,
+      "the_ranking": 38,
+      "us_news_ranking": 36,
+      "arwu_ranking": 37,
+      "forbes_ranking": 39,
+      "cwt_ranking": 38
+    }
+  },
+  {
+    "id": "17",
+    "university_name": "ইউনিভার্সিটি 17",
+    "location": "সিটি 17, স্টেট 17",
+    "degree": "মাস্টার্স",
+    "qs_rank": 37,
+    "admission_fee": "$100",
+    "ielts_score": 7.5,
+    "logo": "https://example.com/logo_univ_17.png",
+    "important_info": "চিকিৎসা এবং জনস্বাস্থ্যে গবেষণার জন্য একটি শক্তিশালী খ্যাতি সম্পন্ন একটি বেসরকারি গবেষণা বিশ্ববিদ্যালয়।",
+    "established_year": 1870,
+    "total_students": 14000,
+    "total_international_students": 3000,
+    "best_courses": [
+      "জনস্বাস্থ্য",
+      "গ্লোবাল হেলথ",
+      "এপিডেমিওলজি",
+      "স্বাস্থ্য নীতি",
+      "ক্লিনিক্যাল গবেষণা"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 15",
+      "ফেব্রুয়ারী 15",
+      "মার্চ 15",
+      "অক্টোবর 15",
+      "নভেম্বর 15",
+      "ডিসেম্বর 15"
+    ],
+    "eligibility": "সম্পর্কিত ক্ষেত্রে ব্যাচেলর ডিগ্রি, প্রতিযোগিতামূলক জিআরই স্কোর এবং প্রাসঙ্গিক পেশাদার বা গবেষণা অভিজ্ঞতা।",
+    "ranking": {
+      "qs_ranking": 37,
+      "the_ranking": 36,
+      "us_news_ranking": 39,
+      "arwu_ranking": 40,
+      "forbes_ranking": 37,
+      "cwt_ranking": 39
+    }
+  },
+  {
+    "id": "18",
+    "university_name": "ইউনিভার্সিটি 18",
+    "location": "সিটি 18, স্টেট 18",
+    "degree": "মাস্টার্স",
+    "qs_rank": 38,
+    "admission_fee": "$50",
+    "ielts_score": 6.5,
+    "logo": "https://example.com/logo_univ_18.png",
+    "important_info": "একটি বৃহৎ পাবলিক বিশ্ববিদ্যালয় যা তার শক্তিশালী কৃষি ও জীবন বিজ্ঞান প্রোগ্রামের জন্য পরিচিত।",
+    "established_year": 1862,
+    "total_students": 38000,
+    "total_international_students": 6500,
+    "best_courses": [
+      "কৃষি",
+      "প্রাণিবিজ্ঞান",
+      "খাদ্য বিজ্ঞান",
+      "ভেটেরিনারি মেডিসিন",
+      "জীববিজ্ঞান"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 15",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 1",
+      "সেপ্টেম্বর 1",
+      "অক্টোবর 1",
+      "নভেম্বর 1"
+    ],
+    "eligibility": "সম্পর্কিত ক্ষেত্রে ব্যাচেলর ডিগ্রি, ন্যূনতম 2.5 জিপিএ এবং দুটি লেটার অফ রেকমেন্ডেশন।",
+    "ranking": {
+      "qs_ranking": 38,
+      "the_ranking": 40,
+      "us_news_ranking": 38,
+      "arwu_ranking": 39,
+      "forbes_ranking": 41,
+      "cwt_ranking": 40
+    }
+  },
+  {
+    "id": "19",
+    "university_name": "ইউনিভার্সিটি 19",
+    "location": "সিটি 19, স্টেট 19",
+    "degree": "মাস্টার্স",
+    "qs_rank": 39,
+    "admission_fee": "$60",
+    "ielts_score": 7.0,
+    "logo": "https://example.com/logo_univ_19.png",
+    "important_info": "এটি একটি পাবলিক বিশ্ববিদ্যালয় যা উদার শিল্পকলা এবং বিজ্ঞানের উপর বিশেষ মনোযোগ দেয়, এর মনোরম ক্যাম্পাস এবং বৈচিত্র্যময় শিক্ষার্থীদের জন্য পরিচিত।",
+    "established_year": 1910,
+    "total_students": 25000,
+    "total_international_students": 5000,
+    "best_courses": [
+      "ক্রিয়েটিভ রাইটিং",
+      "ফিল্ম স্টাডিজ",
+      "রাষ্ট্রবিজ্ঞান",
+      "মনোবিজ্ঞান",
+      "সমাজবিজ্ঞান"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 1",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 15",
+      "অক্টোবর 1",
+      "নভেম্বর 15",
+      "ডিসেম্বর 1"
+    ],
+    "eligibility": "ব্যাচেলর ডিগ্রি, একাডেমিক লেখার নমুনা এবং একটি আকর্ষণীয় ব্যক্তিগত বিবৃতি।",
+    "ranking": {
+      "qs_ranking": 39,
+      "the_ranking": 39,
+      "us_news_ranking": 40,
+      "arwu_ranking": 42,
+      "forbes_ranking": 40,
+      "cwt_ranking": 41
+    }
+  },
+  {
+    "id": "20",
+    "university_name": "ইউনিভার্সিটি 20",
+    "location": "সিটি 20, স্টেট 20",
+    "degree": "পিজি ডিপ্লোমা",
+    "qs_rank": 40,
+    "admission_fee": "$70",
+    "ielts_score": 7.5,
+    "logo": "https://example.com/logo_univ_20.png",
+    "important_info": "ব্যবসা এবং আইনের উপর মনোযোগ সহ একটি বেসরকারি গবেষণা বিশ্ববিদ্যালয়, যা এর এমবিএ এবং জেডি প্রোগ্রামের জন্য অত্যন্ত প্রশংসিত।",
+    "established_year": 1900,
+    "total_students": 18000,
+    "total_international_students": 4000,
+    "best_courses": [
+      "ব্যবসায় প্রশাসন",
+      "আইন",
+      "জন নীতি",
+      "ফিনান্স",
+      "ডেটা অ্যানালিটিক্স"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "ডিসেম্বর 1",
+      "জানুয়ারী 15",
+      "ফেব্রুয়ারী 15",
+      "অক্টোবর 1",
+      "নভেম্বর 15",
+      "ডিসেম্বর 15"
+    ],
+    "eligibility": "ব্যাচেলর ডিগ্রি, প্রতিযোগিতামূলক জিএমএটি/জিআরই স্কোর এবং এমবিএ প্রোগ্রামের জন্য ন্যূনতম দুই বছরের কাজের অভিজ্ঞতা।",
+    "ranking": {
+      "qs_ranking": 40,
+      "the_ranking": 42,
+      "us_news_ranking": 41,
+      "arwu_ranking": 45,
+      "forbes_ranking": 43,
+      "cwt_ranking": 44
+    }
+  },
+  {
+    "id": "21",
+    "university_name": "ইউনিভার্সিটি 21",
+    "location": "সিটি 21, স্টেট 21",
+    "degree": "পিজি ডিপ্লোমা",
+    "qs_rank": 41,
+    "admission_fee": "$80",
+    "ielts_score": 6.5,
+    "logo": "https://example.com/logo_univ_21.png",
+    "important_info": "একটি পাবলিক বিশ্ববিদ্যালয় যা স্টেম (STEM) ক্ষেত্রগুলিতে বিশেষ মনোযোগ দেয় এবং বিনিয়োগের উপর উচ্চ রিটার্ন প্রদানের জন্য খ্যাতিমান।",
+    "established_year": 1925,
+    "total_students": 30000,
+    "total_international_students": 5500,
+    "best_courses": [
+      "কম্পিউটার বিজ্ঞান",
+      "মেকানিক্যাল ইঞ্জিনিয়ারিং",
+      "সিভিল ইঞ্জিনিয়ারিং",
+      "গণিত",
+      "রসায়ন"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 15",
+      "মার্চ 1",
+      "মে 1",
+      "সেপ্টেম্বর 1",
+      "অক্টোবর 15",
+      "ডিসেম্বর 1"
+    ],
+    "eligibility": "স্টেম-সম্পর্কিত ক্ষেত্রে ব্যাচেলর ডিগ্রি, প্রতিযোগিতামূলক জিআরই স্কোর এবং ন্যূনতম 3.0 জিপিএ।",
+    "ranking": {
+      "qs_ranking": 41,
+      "the_ranking": 41,
+      "us_news_ranking": 43,
+      "arwu_ranking": 41,
+      "forbes_ranking": 42,
+      "cwt_ranking": 43
+    }
+  },
+  {
+    "id": "22",
+    "university_name": "ইউনিভার্সিটি 22",
+    "location": "সিটি 22, স্টেট 22",
+    "degree": "পিএইচডি",
+    "qs_rank": 42,
+    "admission_fee": "$90",
+    "ielts_score": 7.0,
+    "logo": "https://example.com/logo_univ_22.png",
+    "important_info": "তার সুন্দর ক্যাম্পাস এবং বৈশ্বিক শিক্ষা ও গবেষণার প্রতি দৃঢ় প্রতিশ্রুতির জন্য পরিচিত একটি বিশ্ববিদ্যালয়।",
+    "established_year": 1880,
+    "total_students": 26000,
+    "total_international_students": 4500,
+    "best_courses": [
+      "আন্তর্জাতিক সম্পর্ক",
+      "গ্লোবাল স্টাডিজ",
+      "নৃবিজ্ঞান",
+      "ভূগোল",
+      "ভাষাবিজ্ঞান"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 1",
+      "ফেব্রুয়ারী 15",
+      "মার্চ 30",
+      "অক্টোবর 15",
+      "নভেম্বর 15",
+      "ডিসেম্বর 15"
+    ],
+    "eligibility": "ব্যাচেলর ডিগ্রি, প্রাসঙ্গিক কাজ বা স্বেচ্ছাসেবক অভিজ্ঞতা এবং একটি শক্তিশালী ব্যক্তিগত বিবৃতি।",
+    "ranking": {
+      "qs_ranking": 42,
+      "the_ranking": 44,
+      "us_news_ranking": 42,
+      "arwu_ranking": 43,
+      "forbes_ranking": 45,
+      "cwt_ranking": 42
+    }
+  },
+  {
+    "id": "23",
+    "university_name": "ইউনিভার্সিটি 23",
+    "location": "সিটি 23, স্টেট 23",
+    "degree": "পিএইচডি",
+    "qs_rank": 43,
+    "admission_fee": "$100",
+    "ielts_score": 7.5,
+    "logo": "https://example.com/logo_univ_23.png",
+    "important_info": "একটি বেসরকারি বিশ্ববিদ্যালয়, যা শিল্পকলা এবং নকশার ক্ষেত্রে সৃজনশীলতা ও উদ্ভাবনের উপর মনোযোগ দিয়ে একটি শক্তিশালী খ্যাতি রাখে।",
+    "established_year": 1960,
+    "total_students": 12000,
+    "total_international_students": 2500,
+    "best_courses": [
+      "গ্রাফিক ডিজাইন",
+      "ফ্যাশন ডিজাইন",
+      "ইন্ডাস্ট্রিয়াল ডিজাইন",
+      "ডিজিটাল মিডিয়া",
+      "চারুকলা"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 15",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 1",
+      "অক্টোবর 1",
+      "নভেম্বর 1",
+      "ডিসেম্বর 1"
+    ],
+    "eligibility": "ব্যাচেলর ডিগ্রি, শক্তিশালী পোর্টফোলিও এবং একটি সৃজনশীল স্টেটমেন্ট অফ পারপাস।",
+    "ranking": {
+      "qs_ranking": 43,
+      "the_ranking": 43,
+      "us_news_ranking": 45,
+      "arwu_ranking": 46,
+      "forbes_ranking": 44,
+      "cwt_ranking": 46
+    }
+  },
+  {
+    "id": "24",
+    "university_name": "ইউনিভার্সিটি 24",
+    "location": "সিটি 24, স্টেট 24",
+    "degree": "পিএইচডি",
+    "qs_rank": 44,
+    "admission_fee": "$50",
+    "ielts_score": 6.5,
+    "logo": "https://example.com/logo_univ_24.png",
+    "important_info": "একটি বৃহৎ ক্যাম্পাস সহ একটি পাবলিক বিশ্ববিদ্যালয়, যেখানে বিভিন্ন ধরনের আন্ডারগ্রাজুয়েট এবং গ্রাজুয়েট প্রোগ্রাম রয়েছে।",
+    "established_year": 1895,
+    "total_students": 45000,
+    "total_international_students": 8000,
+    "best_courses": [
+      "ক্রিমিনাল জাস্টিস",
+      "শিক্ষা",
+      "সামাজিক কাজ",
+      "রাষ্ট্রবিজ্ঞান",
+      "জনপ্রশাসন"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "ফেব্রুয়ারী 1",
+      "মার্চ 15",
+      "মে 1",
+      "সেপ্টেম্বর 15",
+      "অক্টোবর 1",
+      "নভেম্বর 15"
+    ],
+    "eligibility": "স্বীকৃত প্রতিষ্ঠান থেকে ব্যাচেলর ডিগ্রি এবং ন্যূনতম 2.7 জিপিএ।",
+    "ranking": {
+      "qs_ranking": 44,
+      "the_ranking": 46,
+      "us_news_ranking": 44,
+      "arwu_ranking": 45,
+      "forbes_ranking": 47,
+      "cwt_ranking": 48
+    }
+  },
+  {
+    "id": "25",
+    "university_name": "ইউনিভার্সিটি 25",
+    "location": "সিটি 25, স্টেট 25",
+    "degree": "পিএইচডি",
+    "qs_rank": 45,
+    "admission_fee": "$60",
+    "ielts_score": 7.0,
+    "logo": "https://example.com/logo_univ_25.png",
+    "important_info": "এর কঠোর একাডেমিক মান এবং বিজ্ঞান ও ইঞ্জিনিয়ারিং-এর শক্তিশালী গবেষণা সাফল্যের জন্য পরিচিত।",
+    "established_year": 1920,
+    "total_students": 20000,
+    "total_international_students": 4000,
+    "best_courses": [
+      "পদার্থবিদ্যা",
+      "রসায়ন",
+      "জীববিজ্ঞান",
+      "কম্পিউটার বিজ্ঞান",
+      "ইলেকট্রিক্যাল ইঞ্জিনিয়ারিং"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 15",
+      "ফেব্রুয়ারী 15",
+      "মার্চ 1",
+      "অক্টোবর 15",
+      "নভেম্বর 1",
+      "ডিসেম্বর 15"
+    ],
+    "eligibility": "স্টেম (STEM) ক্ষেত্রে ব্যাচেলর ডিগ্রি, উচ্চ জিআরই স্কোর এবং একটি শক্তিশালী স্টেটমেন্ট অফ পারপাস।",
+    "ranking": {
+      "qs_ranking": 45,
+      "the_ranking": 48,
+      "us_news_ranking": 46,
+      "arwu_ranking": 47,
+      "forbes_ranking": 46,
+      "cwt_ranking": 45
+    }
+  },
+  {
+    "id": "26",
+    "university_name": "ইউনিভার্সিটি 26",
+    "location": "সিটি 26, স্টেট 26",
+    "degree": "পিএইচডি",
+    "qs_rank": 46,
+    "admission_fee": "$70",
+    "ielts_score": 7.5,
+    "logo": "https://example.com/logo_univ_26.png",
+    "important_info": "একটি বৈচিত্র্যময় পাবলিক বিশ্ববিদ্যালয়, যা ব্যবহারিক শিক্ষা এবং বিশ্বব্যাপী অংশীদারিত্বের উপর মনোযোগ দেয়।",
+    "established_year": 1940,
+    "total_students": 32000,
+    "total_international_students": 6000,
+    "best_courses": [
+      "আন্তর্জাতিক ব্যবসা",
+      "গ্লোবাল স্টাডিজ",
+      "সাপ্লাই চেইন ম্যানেজমেন্ট",
+      "হসপিটালিটি ম্যানেজমেন্ট",
+      "ইনফরমেশন টেকনোলজি"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 1",
+      "ফেব্রুয়ারী 1",
+      "মার্চ 15",
+      "সেপ্টেম্বর 1",
+      "অক্টোবর 15",
+      "নভেম্বর 1"
+    ],
+    "eligibility": "ব্যাচেলর ডিগ্রি, শক্তিশালী লেটার অফ রেকমেন্ডেশন এবং ন্যূনতম 3.0 জিপিএ।",
+    "ranking": {
+      "qs_ranking": 46,
+      "the_ranking": 45,
+      "us_news_ranking": 48,
+      "arwu_ranking": 47,
+      "forbes_ranking": 49,
+      "cwt_ranking": 47
+    }
+  },
+  {
+    "id": "27",
+    "university_name": "ইউনিভার্সিটি 27",
+    "location": "সিটি 27, স্টেট 27",
+    "degree": "পিএইচডি",
+    "qs_rank": 47,
+    "admission_fee": "$80",
+    "ielts_score": 6.5,
+    "logo": "https://example.com/logo_univ_27.png",
+    "important_info": "এটি তার প্রাণবন্ত শিল্পকলা এবং ডিজাইন ও মিডিয়ায় উদ্ভাবনী প্রোগ্রামগুলির জন্য পরিচিত।",
+    "established_year": 1965,
+    "total_students": 15000,
+    "total_international_students": 3000,
+    "best_courses": [
+      "চারুকলা",
+      "ফিল্ম প্রোডাকশন",
+      "গ্রাফিক ডিজাইন",
+      "মিডিয়া স্টাডিজ",
+      "সাংবাদিকতা"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "জানুয়ারী 15",
+      "মার্চ 1",
+      "মে 1",
+      "সেপ্টেম্বর 1",
+      "অক্টোবর 15",
+      "ডিসেম্বর 15"
+    ],
+    "eligibility": "ব্যাচেলর ডিগ্রি, সৃজনশীল কাজের একটি শক্তিশালী পোর্টফোলিও এবং একটি ব্যক্তিগত বিবৃতি।",
+    "ranking": {
+      "qs_ranking": 47,
+      "the_ranking": 49,
+      "us_news_ranking": 50,
+      "arwu_ranking": 49,
+      "forbes_ranking": 48,
+      "cwt_ranking": 50
+    }
+  },
+  {
+    "id": "28",
+    "university_name": "ইউনিভার্সিটি 28",
+    "location": "সিটি 28, স্টেট 28",
+    "degree": "পিএইচডি",
+    "qs_rank": 48,
+    "admission_fee": "$90",
+    "ielts_score": 7.0,
+    "logo": "https://example.com/logo_univ_28.png",
+    "important_info": "একটি পাবলিক গবেষণা বিশ্ববিদ্যালয়, যা ইঞ্জিনিয়ারিং এবং প্রযুক্তির উপর বিশেষ মনোযোগ দেয় এবং বিভিন্ন গ্রাজুয়েট প্রোগ্রাম সরবরাহ করে।",
+    "established_year": 1885,
+    "total_students": 30000,
+    "total_international_students": 6000,
+    "best_courses": [
+      "সিভিল ইঞ্জিনিয়ারিং",
+      "মেকানিক্যাল ইঞ্জিনিয়ারিং",
+      "অ্যারোস্পেস ইঞ্জিনিয়ারিং",
+      "কম্পিউটার বিজ্ঞান",
+      "ডেটা সায়েন্স"
+    ],
+    "course_duration": "1-2 বছর",
+    "application_end_dates": [
+      "ডিসেম্বর 15",
+      "জানুয়ারী 15",
+      "ফেব্রুয়ারী 15",
+      "অক্টোবর 15",
+      "নভেম্বর 15",
+      "ডিসেম্বর 15"
+    ],
+    "eligibility": "সম্পর্কিত ক্ষেত্রে ব্যাচেলর ডিগ্রি, প্রতিযোগিতামূলক জিআরই স্কোর এবং শক্তিশালী একাডেমিক রেফারেন্স।",
+    "ranking": {
+      "qs_ranking": 48,
+      "the_ranking": 47,
+      "us_news_ranking": 49,
+      "arwu_ranking": 50,
+      "forbes_ranking": 51,
+      "cwt_ranking": 49
+    }
+  }
+]
